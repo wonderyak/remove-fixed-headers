@@ -6,6 +6,9 @@
 /* bootstrap */
 .navbar-fixed-top, #navbar-fixed-top,
 /* teamtreehouse.com */
-.heading-pocket, #heading-pocket {
+.heading-pocket, #heading-pocket,
+/* WordPress themes */
+.fixed-enabled, .fixed-nav, #fixed-enabled, #fixed-nav
+{
 	position:relative !important;
 }
