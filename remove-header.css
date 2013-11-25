@@ -1,3 +1,11 @@
-.header-fixed, #header-fixed, .fixed-heading, #fixed-heading, .heading-fixed, #heading-fixed, .fixed-header, #fixed-header, .fixed, #fixed, .navbar-fixed-top, #navbar-fixed-top {
+.header-fixed, #header-fixed, 
+.fixed-heading, #fixed-heading, 
+.heading-fixed, #heading-fixed, 
+.fixed-header, #fixed-header, 
+.fixed, #fixed, 
+/* bootstrap */
+.navbar-fixed-top, #navbar-fixed-top,
+/* teamtreehouse.com */
+.heading-pocket, #heading-pocket {
 	position:relative !important;
 }
