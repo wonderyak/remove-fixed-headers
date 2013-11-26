@@ -10,7 +10,9 @@
 /* WordPress themes */
 .fixed-enabled, .fixed-nav, #fixed-enabled, #fixed-nav,
 /* Google Plus */
-.Uc.ZJ
-{
+.Uc, .ZJ, .Uc.ZJ {
 	position:relative !important;
+}
+.Uc {
+	display:none !important;
 }
